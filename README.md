@@ -97,10 +97,7 @@ SEO-Audit-TITAN-GYM/
 ├── README.md
 ├── SEO_Audit_Report.docx
 ├── SEO_Audit_Report.pdf
-├── Documentation.docx
 ├── Screenshots/
-├── Images/
-└── Assets/
 ```
 
 ---
@@ -116,9 +113,8 @@ The audit highlights the importance of having an optimized website, implementing
 - README.md
 - SEO Audit Report (DOCX)
 - SEO Audit Report (PDF)
-- Documentation
 - Screenshots
-- Images
+
 
 ---
 
